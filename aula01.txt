@@ -1,0 +1,42 @@
+SPA single page application
+create react app dev
+inspecionar
+
+
+modelo cliente servidor
+
+preview
+
+react
+view
+angular
+
+accordeon
+
+json
+
+{
+	"name": "Ester",
+	"age":30,
+}
+codepen.io 
+github
+
+git 
+
+add arquivo no versionamento:
+git add .
+
+adicionar no repositorio local:
+git commit -n "criacao do arquivo html"
+
+mandar para o repositorio central
+git push
+
+----------
+
+pegar as coisas do servidor:
+git pull
+
+
+
